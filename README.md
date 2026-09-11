@@ -1,5 +1,7 @@
 # Super Mario · One Level
 
+![Screenshot of the game showing Mario, a Goomba, question blocks, and the World 1-1 landscape](assets/game-screenshot.png)
+
 A playable browser fan tribute to the first Super Mario Bros. level: blue skies, pixel scenery, brick and question blocks, pipes, Goombas, three lives, gaps, stairs, a flagpole, and a castle. The layout is inspired by World 1-1, with original hand-drawn canvas art and a compact single-level ruleset; it is not an exact reproduction.
 
 ## Play
