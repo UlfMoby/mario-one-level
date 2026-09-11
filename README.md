@@ -6,6 +6,8 @@ A playable browser fan tribute to the first Super Mario Bros. level: blue skies,
 
 ## Play
 
+[Play the game online](https://ulfmoby.github.io/mario-one-level/) · [Download v0.1.0](https://github.com/UlfMoby/mario-one-level/releases/tag/v0.1.0)
+
 Open `index.html` in a modern browser. No build or dependencies are needed. For a local web server, run `python3 -m http.server 8000` in this directory and visit http://localhost:8000.
 
 - **Left / right** or **A / D**: move
